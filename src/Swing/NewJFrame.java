@@ -41,9 +41,6 @@ public class NewJFrame extends javax.swing.JFrame {
         modem.addColumn("A");
         modem.addColumn("B");
         modem.addColumn("C");
-        modem.addColumn("C");
-        modem.addColumn("C");
-        modem.addColumn("C");
         tableDark1.setModel(modem);
     }
     /**
